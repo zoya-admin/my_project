@@ -10,6 +10,6 @@ This is my new file
 Im sitting in subway with Roma
 EOF
 
-ll > fgr.txt
+ls -l > fgr.txt
 
 echo '================================= script is stopping ====================================='
